@@ -2,7 +2,11 @@
 
 这里是成都理工大学人工智能协会的GitHub官方频道~
 
-## 协会培训资料
+## 培训资料
 
 - [Advance-Computer-Vision-with-Python](https://github.com/CDUT-AI-Club/Advance-Computer-Vision-with-Python)：基于mediapipe的计算机视觉培训
 - [Web-Scraping-Journey-with-Python](https://github.com/CDUT-AI-Club/Web-Scraping-Journey-with-Python)：python爬虫培训
+
+## 培训活动
+
+- [1st-Technical-Training-Session](https://github.com/CDUT-AI-Club/1st-Technical-Training-Session)：第一届技术培训
